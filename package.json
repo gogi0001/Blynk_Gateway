@@ -1,0 +1,7 @@
+{
+    "name": "Blynk-Gateway",
+    "version": "1.0.0",
+    "description": "Blynk-Gateway test project",
+    "main": "gateway.js",
+    "private": true
+}
