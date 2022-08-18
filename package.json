@@ -3,5 +3,13 @@
     "version": "1.0.0",
     "description": "Blynk-Gateway test project",
     "main": "gateway.js",
-    "private": true
+    "private": true,
+    "scripts": {
+        "start": "node gateway.js",
+        "test": "node gateway.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gogi0001/Blynk_Gateway"
+    }
 }
